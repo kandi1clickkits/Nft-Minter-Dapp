@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0f2011B677f0a9D96a55a5EB60423F7d847243ad",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0xa2196681df4d7ec93a6fa7ca0e5365238d706d2bc732d50789a4a4551a258812",
+  "NETWORK": {
+    "NAME": "Rinkeby Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Algo NFT",
+  "SYMBOL": "Toddler",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/algo-nft",
+  "SHOW_BACKGROUND": true
+}
